@@ -1,0 +1,240 @@
+/* ----------- TAG SELECTOR -------------------*/
+body {
+  background-color: #EEEEEE;
+  text-transform: lowercase;
+  margin: 0;
+}
+#body-index {
+  background-color: #EEEEEE;
+  text-transform: lowercase;
+  margin: 0;
+  font-size: 125%
+}
+p {
+  color: #2A2438;
+  font-family: "Josefin Sans";
+  font-weight: 500;
+  font-size: 150%;
+  margin: 0;
+}
+a {
+  color: #573391;
+  font-family: "Josefin Sans";
+  text-decoration: none;
+  font-weight: 600;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: #573391;
+  border-radius: 1px;
+}
+
+.hr-resume {
+  margin-top: 5px;
+  border: 3px solid #2A2438;
+  width: 30%;
+  margin-bottom: 40px;
+}
+
+/* ----------- CLASS SELECTOR -------------------*/
+.big-title {
+  color: #573391;
+  font-family: "Lato", sans-serif;
+  font-size: 1500%;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom:10px;
+  margin-top: 100px;
+}
+
+.my-heading {
+  margin-top: 100px;
+  text-align: center;
+  margin-bottom: 100px;
+}
+.my-heading-index {
+  margin-top: 120px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.subtitle {
+  font-family: "Raleway";
+  color: #2A2438;
+  font-weight: 800;
+  font-size: 40px;
+  text-align: center;
+  line-height: 100px;
+  margin-bottom: 25px;
+  margin-top: 0px;
+}
+ /* IMAGES ---------------------------------------------------------------------*/
+.image1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+}
+
+.profile-pic {
+  margin-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.image2 {
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+.butler {
+  margin-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  margin-bottom: 50px;
+}
+ /* END IMAGES ---------------------------------------------------------------------*/
+
+ .pages{
+   text-align: right;
+   margin-right: 5px;
+ }
+ .hp {
+   font-family: "Lato";
+   color:  #573391;
+   font-size: 200%;
+ }
+
+.description {
+  background-color: #573391;
+  align-items: center;
+  height: auto;
+  padding-bottom: 10%;
+  margin-top: 3%;
+}
+
+.description-par {
+  color: #EEEEEE;
+  font-family: "Josefin Sans";
+  font-weight: 500;
+  font-size: 150%;
+  text-align: center;
+  line-height: 50px;
+}
+
+.about {
+  color: #2A2438;
+  text-align: center;
+  margin-top: 40px;
+  font-size: 250%;
+  margin-bottom: 0;
+}
+
+.exp {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+/* Freelance table ------------------------------------------------------------- */
+.freelance-xp {
+  color: #2A2438;
+  font-family: "Josefin Sans";
+  font-weight: 400;
+  font-size: 25px;
+  empty-cells: show;
+  margin-left: auto;
+  margin-right: auto;
+}
+.freelance-xp td:nth-child(2) {
+  border: 2px solid;
+  border-top: none;
+  border-bottom: none;
+  border-right: none;
+}
+/* END Freelance table ------------------------------------------------------------- */
+.text-center {
+  text-align: justify;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-bottom: 100px;
+}
+
+.top-resume {
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.history, .skills, .education, .freelance-div {
+  margin-bottom: 100px;
+}
+
+.skills-sub {
+  color: #573391;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 200%;
+}
+
+.footer {
+  display: block;
+  box-sizing: border-box;
+  height: 250px;
+  background-color: #573391;
+  clip-path: ellipse(105% 100% at 45.6% 100%);
+  text-align: center;
+  padding-top: 60px;
+}
+.footer-contact {
+  display: block;
+  box-sizing: border-box;
+  height: 200px;
+  background-color: #573391;
+  clip-path: ellipse(105% 100% at 45.6% 100%);
+  text-align: center;
+  padding-top: 60px;
+}
+.hire-me {
+  color: #EEEEEE;
+  font-size: 30px;
+  border: 5px solid;
+  padding: 1%;
+}
+
+.credits {
+  color: #EEEEEE;
+  padding-top: 10px;
+}
+
+.icons {
+  display: inline;
+}
+.message {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.message_table {
+  color: #2A2438;
+  font-family: "Josefin Sans";
+  font-weight: 400;
+  font-size: 150%;
+  empty-cells: show;
+  margin-left: auto;
+  margin-right: auto;
+}
+.message-label {
+  color: #573391;
+  font-family: "Josefin Sans";
+}
